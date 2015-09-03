@@ -1,6 +1,5 @@
 ﻿'Burak Aydemir
-'MIS 239
-'Final Project
+
 
 Option Strict On
 Option Explicit On
